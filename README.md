@@ -1,0 +1,2 @@
+# docs
+LibreCheck documentation
