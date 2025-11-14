@@ -2,7 +2,13 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
+
+:::warning
+
+LibreCheck is developed and documented out in the open, but project is not ready to be deployed or used.
+
+:::
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
